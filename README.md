@@ -1,9 +1,3 @@
----
-typora-copy-images-to: ./
----
-
-
-
 # Node_Tutorials
 
 ### 첫번째 예제
@@ -24,4 +18,7 @@ console.log("Hello Node.js");
 ```
 
 커맨더 창에서 아래의 명령어를 실행하여 작성한 파일을 실행하여 실행 결과를 확인합니다. <img src="D:\Java\jspWorkspace\Node_Tutorials\002.png" alt="002" style="zoom:50%;" />
+=======
+
+
 
